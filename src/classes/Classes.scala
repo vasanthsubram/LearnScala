@@ -1,3 +1,5 @@
+package classes
+
 class Greeter(prefix : String, suffix: String) {
 
   def greet(name: String): Unit = {
